@@ -5,10 +5,10 @@ Faculty: FICT
 Course: Introduction in routing  
 Year: 2025/2026  
 Group: K3322  
-Author: Feofanov Nikita Romanovich  
+Author: Umralieva Nadezhda
 Lab: Lab1  
-Date of create: 8.10.2025  
-Date of finished: 13.10.2025
+Date of create: 
+Date of finished: 
 
 ## Схема сети
 
