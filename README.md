@@ -4,7 +4,7 @@ University: ITMO University
 Faculty: FICT  
 Course: Introduction in routing  
 Year: 2025/2026  
-Group: K3322  
+Group: K3323 
 Author: Umralieva Nadezhda
 Lab: Lab1  
 Date of create: 
@@ -155,7 +155,7 @@ ip route add 10.20.0.0/24 via 10.10.0.1 dev vlan10
 Зайдём внутрь роутера через команду `ssh username@clab-lab1-R01.TEST`  
 Проверим пинг с роутера:
 
-![Пинг 1](https://github.com/fe0fanov/2025_2026-introduction_in_routing-k3322-feofanov_n_r/raw/main/lab1/images/ping1.png)
+![Пинг 1]([https://github.com/fe0fanov/2025_2026-introduction_in_routing-k3322-feofanov_n_r/raw/main/lab1/images/ping1.png](https://github.com/Nadezhda-hp/lab1/blob/main/ping1.png))
 ![Пинг 2](https://github.com/fe0fanov/2025_2026-introduction_in_routing-k3322-feofanov_n_r/raw/main/lab1/images/ping2.png)
 
 Проверим доступность компьютеров между собой:
