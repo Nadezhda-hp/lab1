@@ -156,7 +156,7 @@ ip route add 10.20.0.0/24 via 10.10.0.1 dev vlan10
 Проверим пинг с роутера:
 
 ![Пинг 1](https://github.com/Nadezhda-hp/lab1/blob/main/Снимок%20экрана%202025-12-15%20в%2017.05.29.png)
-![Пинг 2](https://github.com/fe0fanov/2025_2026-introduction_in_routing-k3322-feofanov_n_r/raw/main/lab1/images/ping2.png)
+![Пинг 2](https://github.com/Nadezhda-hp/lab1/blob/main/png2.png)
 
 Проверим доступность компьютеров между собой:
 
